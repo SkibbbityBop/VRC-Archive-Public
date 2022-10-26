@@ -2,7 +2,7 @@ This is a quest client.
 
 Midnight is one of - if not the absolute best - public quest client, with more features than some pre-EAC clients that I used to use.
 
-Developers: KA$H, Wɇndigø/$INFUL
+Developer(s): KA$H, Wɇndigø/$INFUL
 
 Discord: https://discord.gg/uspeak
 
