@@ -13,4 +13,9 @@ InsomniaLoader.dll - I got this from [HyperV's website,](https://www.hvl.gg/Inso
 MyEpicTestMod.dll - This is required to get modded VRC on a Quest to work, you can get it from [here](https://github.com/gompoc/MyEpicTestMod)
 
 OculusBypass.dll - I don't know what this is ngl, Foonix gave this to someone in The Network, and they gave it to the server. Look through it if you want, idk what it is
+
+PsychoticClient.dll - This is a cracked post-EAC Client, idk what injector to use with it but [face](https://github.com/KANKOSHEV/face-injector-v2)
+
+SerenityLoader.dll - This is the loader for the pre-EAC bot client Serenity, but it's obfuscated, so you're welcome to pick through it if you can deob it
+
 emmVRC-Quest.zip - This is just a Quest port of EmmVRC done by Cyril
