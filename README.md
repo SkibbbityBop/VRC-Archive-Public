@@ -6,8 +6,6 @@ This is the public version of my private VRC archive where I put all of the clie
 
 **Shadow** - This is one of the better public quest clients, though you may not want to use it (OLD UI)
 
-**GenesisClient.dll** - An old, private Quest client that probably doesn't work anymore, but it's here for picking through code and stuff like that (DOESN'T WORK)
-
 **InsomniaLoader.dll** - I got this from [HyperV's website,](https://www.hvl.gg/Insomnia) but I don't really know what it is, so here it is so you can pick through it if you want to 
 
 **MyEpicTestMod.dll** - This is required to get modded VRC on a Quest to work, you can get it from [here](https://github.com/gompoc/MyEpicTestMod)
