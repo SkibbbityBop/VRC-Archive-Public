@@ -6,5 +6,5 @@ Developer(s): KA$H, Wɇndigø/$INFUL
 
 Discord: https://discord.gg/uspeak
 
-The .zip with the highest number is the most recent.
+The .zip with the highest number is the most recent. Only works on the old UI
 
