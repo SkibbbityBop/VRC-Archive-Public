@@ -20,6 +20,6 @@ This is the public version of my private VRC archive where I put all of the clie
 
 **OculusBypass.dll** - I don't know what this is ngl, Foonix gave this to someone in The Network, and they gave it to the server. Look through it if you want, idk what it is
 
-**PsychoticClient_Deob.dll** - This is a partially deobfuscated version of the Psychotic Client dll, you can't use this version, but you can download a working version of it [here](https://cdn.discordapp.com/attachments/1036021988864569495/1038883888224800768/PsychoticClient.dll). Face will work to inject it. (EAC BYPASS)
+**PsychoticClient_Deob.dll** - This is a partially deobfuscated version of the Psychotic Client dll, you can't use this version, but you can download a working version of it [here](https://cdn.discordapp.com/attachments/1036021988864569495/1038883888224800768/PsychoticClient.dll). Face will work to inject it. just log in with the username/password PsychoOwner, the third thing you can just press enter and skip. (EAC BYPASS)
 
 **emmVRC-Quest.zip** - This is just a Quest port of EmmVRC done by Cyril (OLD UI)
